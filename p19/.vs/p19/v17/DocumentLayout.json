@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\\u5927\u5B78\\\u5927\u4E00\u4E0A\\113\u9AD8\u968E\u7A0B\u5F0F\u8A2D\u8A08\\HW\\hw4\\HW4\\p19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFA5491-F729-436F-B9E6-85AD8FC863DA}|p19\\p19.vcxproj|C:\\Users\\admin\\Desktop\\\u5927\u5B78\\\u5927\u4E00\u4E0A\\113\u9AD8\u968E\u7A0B\u5F0F\u8A2D\u8A08\\HW\\hw4\\HW4\\p19\\p19\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9FFA5491-F729-436F-B9E6-85AD8FC863DA}|p19\\p19.vcxproj|solutionrelative:p19\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFA5491-F729-436F-B9E6-85AD8FC863DA}|p19\\p19.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UCRT\\STDIO.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ViewState": "AgIAAP4EAAAAAAAAAAAIwA4FAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-08T13:30:21.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u5927\u5B78\\\u5927\u4E00\u4E0A\\113\u9AD8\u968E\u7A0B\u5F0F\u8A2D\u8A08\\HW\\hw4\\HW4\\p19\\p19\\main.c",
+              "RelativeDocumentMoniker": "p19\\main.c",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u5927\u5B78\\\u5927\u4E00\u4E0A\\113\u9AD8\u968E\u7A0B\u5F0F\u8A2D\u8A08\\HW\\hw4\\HW4\\p19\\p19\\main.c",
+              "RelativeToolTip": "p19\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-08T13:06:07.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
